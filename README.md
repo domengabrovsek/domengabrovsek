@@ -1,20 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm Domen</h1>
 
-<!--
-**domengabrovsek/domengabrovsek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 📈 Github Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=domengabrovsek&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domengabrovsek&layout=compact&theme=dark&show_icons=true&langs_count=20)
+<a href="#">
+  <img height= "200px" align="center" src="https://github-readme-stats.vercel.app/api?username=domengabrovsek&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=dark&custom_title=Here%20are%20some%20of%20my%20stats" />
+</a>
+<a href="#">
+  <img height= "200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domengabrovsek&layout=compact&theme=dark&show_icons=true&langs_count=20&custom_title=Here%20are%20some%20languages%20I%27ve%20used" />
+</a>
