@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## 📈 Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=domengabrovsek&count_private=true&show_icons=true&include_all_commits=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domengabrovsek&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=domengabrovsek&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domengabrovsek&layout=compact&theme=dark&show_icons=true&langs_count=20)
