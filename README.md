@@ -1,6 +1,6 @@
 ## Hi there, I'm Domen 👋
 
-#### I'm a Software Engineer @ [13|37](https://www.1337.careers/)
+#### I'm a Software Engineer 🧙 @ [13|37](https://www.1337.careers/)
 
 [<img height="200px" src="https://github-readme-stats.vercel.app/api?username=domengabrovsek&count_private&show_icons=true&bg_color=0C0C91&text_color=05E273&title_color=05E273&border_color=05E273">](https://1337.tech/) [<img height= "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domengabrovsek&layout=compact&langs_count=20&bg_color=0C0C91&text_color=05E273&title_color=05E273&border_color=05E273&custom_title=My%20Most%20Used%20Languages">](https://1337.tech/)
 
