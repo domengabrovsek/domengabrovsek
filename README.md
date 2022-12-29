@@ -34,12 +34,11 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=domengabrovsek&theme=dark&&date_format=M%20j%5B%2C%20Y%5D&background=0C0C91&border=05E273&ring=05E273&fire=05E273&currStreakLabel=05E273" width="400"></a>
-</p>
-
-<p align='center'>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=domengabrovsek&theme=dark&&date_format=M%20j%5B%2C%20Y%5D&background=0C0C91&border=05E273&ring=05E273&fire=05E273&currStreakLabel=05E273" width="400"></a>&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=domengabrovsek&count_private&show_icons=true&bg_color=0C0C91&text_color=05E273&title_color=05E273&border_color=05E273" width="400"></a>
 </p>
-<p align='center'>
+
+
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domengabrovsek&layout=compact&langs_count=20&bg_color=0C0C91&text_color=05E273&title_color=05E273&border_color=05E273&custom_title=My%20Most%20Used%20Languages" width="400"></a>
-</p>
+</p> -->
