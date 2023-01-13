@@ -36,11 +36,11 @@
 <p align='center'>
 
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=domengabrovsek&theme=dark&background=0C0C91&border=05E273&ring=05E273&fire=05E273&currStreakLabel=05E273" width="400"></a>&nbsp;
-  <a href="#"><img src="https://github-readme-stats-i66v.vercel.app/api?username=domengabrovsek&count_private&show_icons=true&bg_color=0C0C91&text_color=05E273&title_color=05E273&border_color=05E273" width="400"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=domengabrovsek&theme=dark&background=0C0C91&border=05E273&ring=05E273&fire=05E273&currStreakLabel=05E273" width="420"></a>&nbsp;
+  <a href="#"><img src="https://github-readme-stats-i66v.vercel.app/api?username=domengabrovsek&count_private&show_icons=true&bg_color=0C0C91&text_color=05E273&title_color=05E273&border_color=05E273" width="420"></a>
 
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-  <a href="#"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=domengabrovsek&title_color=05E273&bg_color=0C0C91&color=0079fa&line=05E273&point=05E273&area=true&hide_border=true" width="800"></a>&nbsp;
+  <a href="#"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=domengabrovsek&title_color=05E273&bg_color=0C0C91&color=0079fa&line=05E273&point=05E273&area=true&hide_border=true" width="845"></a>&nbsp;
 </p>
 
 
