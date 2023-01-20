@@ -33,6 +33,8 @@
 
 </p>
 
+[<img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="200">](https://www.credential.net/71c163ca-7d4a-4147-9af7-26fd0ff678e8#gs.novygy)
+
 <p align='center'>
   <div align="center">
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
