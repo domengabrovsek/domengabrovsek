@@ -38,10 +38,10 @@
 <p align='center'>
   <div align="center">
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=domengabrovsek&theme=dark&background=0C0C91&hide_border=true&ring=05E273&fire=05E273&currStreakLabel=05E273" width="400">
-  <img src="https://github-readme-stats-i66v.vercel.app/api?username=domengabrovsek&count_private&show_icons=true&bg_color=0C0C91&text_color=05E273&title_color=05E273&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=domengabrovsek&theme=dark&background=141414&ring=1e57d9&fire=1e57d9&currStreakLabel=d4d2d2" width="400">
+  <img src="https://github-readme-stats-i66v.vercel.app/api?username=domengabrovsek&count_private&show_icons=true&bg_color=141414&text_color=d4d2d2&title_color=d4d2d2" width="400">
 
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=domengabrovsek&title_color=05E273&bg_color=0C0C91&color=0079fa&line=05E273&point=05E273&area=true&hide_border=true" width="800">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=domengabrovsek&title_color=d4d2d2&bg_color=141414&color=1e57d9&line=1e57d9&point=1e57d9&area=true" width="800">
   </div>
 </p>
