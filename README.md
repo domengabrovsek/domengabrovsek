@@ -35,7 +35,7 @@
 
  <div align="center">
 
-[<img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="200">](https://www.credential.net/71c163ca-7d4a-4147-9af7-26fd0ff678e8#gs.novygy)
+[<img src="https://miro.medium.com/v2/resize:fit:324/0*srOk0PnzDBh3GAGb.png" width="200">](https://www.credential.net/71c163ca-7d4a-4147-9af7-26fd0ff678e8#gs.novygy)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domengabrovsek&hide=R,Assembly,HTML,CSS,ASP.NET&layout=compact&langs_count=6&bg_color=0d1117&hide_border=true&text_color=d4d2d2&title_color=d4d2d2&custom_title=My%20Most%20Used%20Languages" width=400> -->
 
