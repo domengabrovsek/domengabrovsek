@@ -45,7 +45,7 @@
   
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=domengabrovsek&theme=dark&background=0d1117&hide_border=true&ring=1e57d9&fire=1e57d9&currStreakLabel=d4d2d2" width="49%">
       
-  <img align="right" src="https://github-readme-stats-i66v.vercel.app/api?username=domengabrovsek&count_private&show_icons=true&bg_color=0d1117&text_color=d4d2d2&title_color=d4d2d2&hide_border=true" width="49%">
+  <img align="left" src="https://github-readme-stats-i66v.vercel.app/api?username=domengabrovsek&count_private&show_icons=true&bg_color=0d1117&text_color=d4d2d2&title_color=d4d2d2&hide_border=true" width="49%">
     
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=domengabrovsek&title_color=d4d2d2&bg_color=0d1117&color=1e57d9&line=1e57d9&point=1e57d9&area=true&hide_border=true" width="100%">
 
