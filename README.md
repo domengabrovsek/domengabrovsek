@@ -33,6 +33,7 @@
  <div align="center">
 
 [<img src="https://miro.medium.com/v2/resize:fit:324/0*srOk0PnzDBh3GAGb.png" width="200">](https://www.credential.net/71c163ca-7d4a-4147-9af7-26fd0ff678e8#gs.novygy)
+[<img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="200">](https://www.credly.com/badges/19ae9a91-72e5-4300-a6de-75b31423a246/public_url)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domengabrovsek&hide=R,Assembly,HTML,CSS,ASP.NET&layout=compact&langs_count=6&bg_color=0d1117&hide_border=true&text_color=d4d2d2&title_color=d4d2d2&custom_title=My%20Most%20Used%20Languages" width=400> -->
 
