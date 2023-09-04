@@ -96,6 +96,11 @@
   <a href="https://www.credential.net/71c163ca-7d4a-4147-9af7-26fd0ff678e8#gs.novygy">
     <img src="https://miro.medium.com/v2/resize:fit:324/0*srOk0PnzDBh3GAGb.png" width="200">
   </a>
+
+  <a href="https://www.credly.com/earner/earned/badge/fc8f382c-fd78-4676-990d-a57ab87e66a3">
+    <img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="200">
+  </a>
+  
   <a href="https://www.credly.com/badges/19ae9a91-72e5-4300-a6de-75b31423a246/public_url">
     <img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="200">
   </a>
