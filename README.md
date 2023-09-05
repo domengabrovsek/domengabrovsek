@@ -97,7 +97,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:324/0*srOk0PnzDBh3GAGb.png" width="200">
   </a>
 
-  <a href="https://www.credly.com/earner/earned/badge/fc8f382c-fd78-4676-990d-a57ab87e66a3">
+  <a href="https://www.credly.com/badges/fc8f382c-fd78-4676-990d-a57ab87e66a3/public_url">
     <img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="200">
   </a>
   
