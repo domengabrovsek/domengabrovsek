@@ -100,8 +100,12 @@
   <a href="https://www.credly.com/badges/fc8f382c-fd78-4676-990d-a57ab87e66a3/public_url">
     <img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="200">
   </a>
-  
+
   <a href="https://www.credly.com/badges/19ae9a91-72e5-4300-a6de-75b31423a246/public_url">
     <img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="200">
+  </a>
+
+  <a href="https://www.credly.com/badges/32c81b4f-2702-4ebf-b7e2-0f0f91acef59/public_url">
+    <img src="https://images.credly.com/size/680x680/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png" width="200">
   </a>
 </p>
