@@ -32,16 +32,6 @@ I'm passionate about automation, simplification, and writing code that's straigh
 ⚡ TypeScript/Node.js  
 🏗️ Terraform/CDK
 
-### Current focus areas
-
-- Distributed systems and event-driven architectures
-- Serverless and container orchestration patterns
-- Infrastructure as Code and CI/CD automation
-- Production reliability and observability
-- Privacy-first engineering and compliance
-
----
-
 ## How I work
 
 I build production-grade systems that handle scale - from resilient backend services to event-driven architectures and automated infrastructure deployment. My approach emphasizes clean architecture, simple and testable code, and operational excellence.
