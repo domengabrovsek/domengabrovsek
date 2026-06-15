@@ -1,51 +1,69 @@
-<h1 align='center'>
-  👋 Hi, I'm Domen
-</h1>
+<h1 align="center">👋 Hi, I'm Domen</h1>
 
 <p align="center">
-  <b>Senior Software Engineer | Backend & Cloud Infrastructure</b><br/>
-  📍 Ljubljana, Slovenia
+  <b>Senior Backend Engineer @ Didomi · Co-founder @ Pentla</b><br/>
+  📍 Ljubljana, Slovenia 🇸🇮
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/domengabrovsek">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=domengabrovsek&style=for-the-badge&color=blue"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=domengabrovsek&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## What I do
+Senior backend engineer at Didomi, on the serverside squad. I build
+privacy-first server-side infrastructure - high-throughput systems that process
+data at scale while keeping user consent at the core.
 
-I design and build cloud-native systems at scale, with 10+ years of experience in backend development and infrastructure engineering. 
-
-Currently working at [Didomi](https://www.didomi.io/) 🔒 building privacy solutions that help organizations navigate complex regulatory landscapes.
-
-I'm passionate about automation, simplification, and writing code that's straightforward to test and maintain. If there's a manual process, I'll find a way to automate it. If there's complexity, I'll work to simplify it.
+With 10+ years in backend and cloud, I value automation, simple and testable
+code, and removing complexity wherever I find it - if something needs doing
+twice, I'll automate it. On the side I'm co-founding Pentla as its
+founding engineer, building the product from the ground up.
 
 ### What I work with
 
-☁️ AWS • GCP  
-⚡ TypeScript/Node.js  
-🏗️ Terraform/CDK
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
-## How I work
+Day to day that's TypeScript on Node.js, infrastructure as code with Terraform,
+and a mix of serverless and container workloads running on AWS and GCP.
 
-I build production-grade systems that handle scale - from resilient backend services to event-driven architectures and automated infrastructure deployment. My approach emphasizes clean architecture, simple and testable code, and operational excellence.
+### What I'm tinkering with
 
-As a digital privacy enthusiast, I'm particularly interested in building systems that respect user privacy by design while maintaining performance and usability.
+Lately I've been deep in engineering with AI - figuring out how to make these
+tools genuinely useful in day-to-day work rather than a novelty. I've built my
+own [Claude Code setup](https://github.com/domengabrovsek/claude) that turns it
+into a disciplined engineering partner, with guardrails, workflows, and rules
+that keep it honest. Most of my side time goes into automating the repetitive
+parts of how I work, so the hours left over go to the problems that actually
+need a human.
+
+### Off the clock
+
+Away from the keyboard I automate things for fun and play chess ♟️. The rest of
+my time goes outdoors - road cycling 🚴, hiking ⛰️, and travelling ✈️ whenever
+I can.
+
+### Certifications
+
+AWS & GCP certified - full list on [Credly](https://www.credly.com/users/domen-gabrovsek/badges).
 
 ---
 
-## Certifications
+💬 Always happy to talk engineering, privacy, and automation - or chess and
+bikes - and up for mentoring if you're earlier in your journey.
 
-🏆 [View my credentials on Credly](https://www.credly.com/users/domen-gabrovsek/badges)
-
----
-
-💬 Open to discussing distributed systems, cloud architecture, privacy engineering, or infrastructure challenges  
-🤝 I enjoy sharing knowledge and mentoring - if you're a junior engineer or just want to discuss technical topics, feel free to reach out  
-♟️ Chess enthusiast – find me on [Chess.com](https://www.chess.com/member/domengabrovsek) or [Lichess](https://lichess.org/@/domengabrovsek)
+<p>
+  ♟️ <a href="https://www.chess.com/member/domengabrovsek">Chess.com</a> ·
+  <a href="https://lichess.org/@/domengabrovsek">Lichess</a>
+</p>
