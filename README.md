@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Backend Engineer @ <a href="https://www.didomi.io">Didomi</a> · Co-founder @ <a href="https://pentla.tech">Pentla</a></b><br/>
-  📍 Ljubljana, Slovenia 🇸🇮 · 🌐 Remote only
+  📍 Ljubljana, Slovenia 🇸🇮 · 🌐 Working remotely
 </p>
 
 <p align="center">
@@ -38,11 +38,7 @@ founding engineer, building the product from the ground up.
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-<p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 </p>
 
 Day to day that's TypeScript on Node.js, infrastructure as code with Terraform,
@@ -70,8 +66,7 @@ AWS & GCP certified - full list on [Credly](https://www.credly.com/users/domen-g
 
 ---
 
-💬 Always happy to talk engineering, privacy, and automation - or chess and
-bikes - and up for mentoring if you're earlier in your journey.
+💬 Happy to talk engineering, privacy, automation, chess, or bikes - always open to sharing knowledge and mentoring.
 
 <p>
   ♟️ <a href="https://www.chess.com/member/domengabrovsek">Chess.com</a> ·
