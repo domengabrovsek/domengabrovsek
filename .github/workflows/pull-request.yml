@@ -1,0 +1,20 @@
+name: Pull Request
+
+# This repo has no PR CI of its own. The Gate job exists so branch protection
+# (managed in the home-infra github stack) can require a single "Gate" status
+# check uniformly across every managed repo.
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  gate:
+    name: Gate
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+    steps:
+      - name: Gate
+        run: echo "No PR checks configured for this repo; Gate passes."
