@@ -13,7 +13,7 @@ permissions:
 jobs:
   gate:
     name: Gate
-    runs-on: ubuntu-latest
+    runs-on: "${{ vars.CI_RUNNER && fromJSON(vars.CI_RUNNER) || 'ubuntu-latest' }}"
     timeout-minutes: 1
     steps:
       - name: Gate
