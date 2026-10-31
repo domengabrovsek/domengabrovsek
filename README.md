@@ -1,7 +1,8 @@
 <h1 align="center">Domen Gabrovšek</h1>
 
 <p align="center">
-  <b>Co-founder & CTO @ <a href="https://pentla.tech">Pentla</a> · Senior Software Engineer @ <a href="https://www.didomi.io">Didomi</a></b><br/>
+  <b>🚀 Co-founder & CTO @ <a href="https://pentla.tech">Pentla</a></b><br/>
+  <b>💻 Senior Software Engineer @ <a href="https://www.didomi.io">Didomi</a></b><br/>
   Ljubljana, Slovenia · Remote
 </p>
 
