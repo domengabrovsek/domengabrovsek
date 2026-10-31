@@ -52,5 +52,5 @@ AWS and GCP certified ([Credly](https://www.credly.com/users/domen-gabrovsek/bad
 
 ### Outside work
 
-Outside work, you'll usually find me on my road bike, hiking in the mountains,
+You'll usually find me on my road bike, hiking in the mountains,
 or travelling somewhere new. I also love a good game of chess.
