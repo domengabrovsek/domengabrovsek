@@ -3,7 +3,7 @@
 <p align="center">
   <b>🚀 Co-founder & CTO @ <a href="https://pentla.tech">Pentla</a></b><br/>
   <b>💻 Senior Software Engineer @ <a href="https://www.didomi.io">Didomi</a></b><br/>
-  Ljubljana, Slovenia · Remote
+  📍 Ljubljana, Slovenia 🇸🇮 · 🌐 Remote
 </p>
 
 <p align="center">
@@ -49,3 +49,7 @@ pairing, talks and open-source tooling.
 ### Certifications
 
 AWS and GCP certified ([Credly](https://www.credly.com/users/domen-gabrovsek/badges)).
+
+### Outside work
+
+Chess ♟️, road cycling 🚴, hiking ⛰️ and travelling ✈️.
