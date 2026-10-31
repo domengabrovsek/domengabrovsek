@@ -52,6 +52,5 @@ AWS and GCP certified ([Credly](https://www.credly.com/users/domen-gabrovsek/bad
 
 ### Outside work
 
-I spend as much of my free time outdoors as I can, mostly road cycling and
-hiking, and I love travelling to places I haven't seen yet. I also really enjoy
-chess.
+Outside work, you'll usually find me on my road bike, hiking in the mountains,
+or travelling somewhere new. Chess is one of my favourite ways to unwind.
