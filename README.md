@@ -52,4 +52,6 @@ AWS and GCP certified ([Credly](https://www.credly.com/users/domen-gabrovsek/bad
 
 ### Outside work
 
-Chess ♟️, road cycling 🚴, hiking ⛰️ and travelling ✈️.
+Away from the keyboard I'm usually outdoors, road cycling 🚴 or hiking ⛰️, or
+travelling ✈️ somewhere I haven't been yet. When I'm home, I enjoy a good game
+of chess ♟️.
