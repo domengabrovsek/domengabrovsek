@@ -1,74 +1,50 @@
-<h1 align="center">👋 Hi, I'm Domen</h1>
+<h1 align="center">Domen Gabrovšek</h1>
 
 <p align="center">
-  <b>Senior Backend Engineer @ <a href="https://www.didomi.io">Didomi</a> · Co-founder @ <a href="https://pentla.tech">Pentla</a></b><br/>
-  📍 Ljubljana, Slovenia 🇸🇮 · 🌐 Working remotely
+  <b>Co-founder & CTO @ <a href="https://pentla.tech">Pentla</a> · Senior Software Engineer @ <a href="https://www.didomi.io">Didomi</a></b><br/>
+  Ljubljana, Slovenia · Remote
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/domengabrovsek">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=domengabrovsek&style=for-the-badge&color=blue"/>
+  <a href="https://domengabrovsek.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-Senior backend engineer at Didomi, on the serverside squad. I build
-privacy-first server-side infrastructure - high-throughput systems that process
-data at scale while keeping user consent at the core.
+Senior software engineer with over a decade of experience designing, building
+and operating backend and cloud systems in production. I work across the full
+lifecycle of a system, from the first architecture decisions to running it
+reliably at scale.
 
-With 10+ years in backend and cloud, I value automation, simple and testable
-code, and removing complexity wherever I find it - if something needs doing
-twice, I'll automate it. On the side I'm co-founding Pentla as its
-founding engineer, building the product from the ground up.
+As co-founder and CTO of Pentla, I lead the technical direction and am building
+the platform end to end: architecture, backend, frontend, infrastructure and the
+engineering practices the team works by.
 
-### What I work with
+As a senior software engineer at Didomi, I work on server-side tagging and
+consent infrastructure across GCP and AWS. I design and deliver changes that
+span multiple services and teams, and take them from proposal to production.
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-</p>
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white"/>
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
+Across both roles, I use AI to improve technical and product processes: how work
+is specified, built, reviewed and shipped. The goal is to help teams ship more,
+faster, with higher quality and reliable results.
 
-Day to day that's TypeScript on Node.js, infrastructure as code with Terraform,
-and a mix of serverless and container workloads running on AWS and GCP.
+I enjoy sharing what I know and mentoring other engineers, through code review,
+pairing, talks and open-source tooling.
 
-### What I'm tinkering with
+### Core strengths
 
-Lately I've been deep in engineering with AI - figuring out how to make these
-tools genuinely useful in day-to-day work rather than a novelty. I've built my
-own [Claude Code setup](https://github.com/domengabrovsek/claude) that turns it
-into a disciplined engineering partner, with guardrails, workflows, and rules
-that keep it honest. Most of my side time goes into automating the repetitive
-parts of how I work, so the hours left over go to the problems that actually
-need a human.
-
-### Off the clock
-
-Away from the keyboard I automate things for fun and play chess ♟️. The rest of
-my time goes outdoors - road cycling 🚴, hiking ⛰️, and travelling ✈️ whenever
-I can.
+- **Architecture and system design:** multi-tenant SaaS platforms and distributed systems that span services, teams and clouds
+- **Backend engineering:** high-throughput services, relational data modelling, API design
+- **Cloud infrastructure:** GCP, AWS and Cloudflare, fully managed as code
+- **Technical leadership:** setting technical direction, engineering standards and delivery practices from zero to production
+- **Production ownership:** reliability, observability, incident response and security
+- **AI-enabled delivery:** tooling and workflows that make coding agents dependable and help teams ship faster, at higher quality and with fewer surprises in production
 
 ### Certifications
 
-AWS & GCP certified - full list on [Credly](https://www.credly.com/users/domen-gabrovsek/badges).
-
----
-
-💬 Happy to talk engineering, privacy, automation, chess, or bikes - always open to sharing knowledge and mentoring.
-
-<p>
-  ♟️ <a href="https://www.chess.com/member/domengabrovsek">Chess.com</a> ·
-  <a href="https://lichess.org/@/domengabrovsek">Lichess</a>
-</p>
+AWS and GCP certified ([Credly](https://www.credly.com/users/domen-gabrovsek/badges)).
