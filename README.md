@@ -53,5 +53,6 @@ AWS and GCP certified ([Credly](https://www.credly.com/users/domen-gabrovsek/bad
 ### Outside work
 
 Away from the keyboard I'm usually outdoors, road cycling 🚴 or hiking ⛰️, or
-travelling ✈️ somewhere I haven't been yet. When I'm home, I enjoy a good game
-of chess ♟️.
+travelling ✈️ somewhere I haven't been yet. I also play chess ♟️, both over the
+board and online on [Chess.com](https://www.chess.com/member/domengabrovsek) and
+[Lichess](https://lichess.org/@/domengabrovsek).
