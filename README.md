@@ -53,4 +53,4 @@ AWS and GCP certified ([Credly](https://www.credly.com/users/domen-gabrovsek/bad
 ### Outside work
 
 Outside work, you'll usually find me on my road bike, hiking in the mountains,
-or travelling somewhere new. Chess is one of my favourite ways to unwind.
+or travelling somewhere new. Chess is a game I never get tired of.
